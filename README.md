@@ -1,4 +1,4 @@
-# ** Esta versión no contiene archivos multimedia debido al peso del proyexto. ** 
+# ** Esta versión no contiene archivos multimedia debido al peso del proyecto. ** 
 
 
 La creación de esta aplicación web para el hotel los sueños, ofrece una plataforma esencial para 
